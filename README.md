@@ -15,7 +15,7 @@ Supports the following currencies:
 - RUB (Russian Ruble)
 - CNY (Chinese Yuan)
 - TRY (Turkish Lira)
-  Fetches real-time exchange rates using an external API (via Axios).
+- Fetches real-time exchange rates using an external API (via Axios).
   Clean, simple user interface with icons for ease of use.
 
 ## Tech Stack
