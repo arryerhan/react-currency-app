@@ -1,4 +1,4 @@
-# Currency Converter React App
+# React Currency App
 
 - This is a simple Currency Converter web application built using React. The app allows users to convert between multiple currencies using real-time exchange rates.
 
@@ -26,3 +26,6 @@ Supports the following currencies:
 - React-Icons: For adding icons in the application.
 
 ## Screenshot
+
+![screen](https://github.com/user-attachments/assets/0e55ece3-ce23-49e0-8b7d-fe20216b24f7)
+
